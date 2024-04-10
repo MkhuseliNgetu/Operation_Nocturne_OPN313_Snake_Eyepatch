@@ -1,0 +1,6 @@
+factories:  
+  - majorgalvez_snake_eyepatch\ops\my_shirt_factory.csv
+localization:  
+  onscreens:  
+    en-us: 
+      - majorgalvez_snake_eyepatch\ops\translation_strings.json

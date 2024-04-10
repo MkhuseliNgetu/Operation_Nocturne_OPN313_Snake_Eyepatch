@@ -1,0 +1,27 @@
+# Game.AddToInventory("Items.snake_eyepatch")
+Items.snake_eyepatch:
+  $base: Items.GenericFaceClothing
+  entityName: majorgalvez_snake_eyepatch_factory_name
+  appearanceName: appearance_root_entity_snake
+  displayName: majorgalvez_snake_eyepatch_localization_name_snake
+  localizedDescription: majorgalvez_snake_eyepatch_localization_desc
+  quality: Quality.Legendary
+  appearanceSuffixes: []
+  icon:
+    atlasResourcePath: majorgalvez_snake_eyepatch\ops\preview_icons.inkatlas
+    atlasPartName: slot_01
+
+# Game.AddToInventory("Items.venom_snake_eyepatch")
+Items.venom_snake_eyepatch:
+  $base: Items.GenericFaceClothing
+  entityName: majorgalvez_snake_eyepatch_factory_name
+  appearanceName: appearance_root_entity_venom_snake
+  displayName: majorgalvez_snake_eyepatch_localization_name_venom_snake
+  localizedDescription: majorgalvez_snake_eyepatch_localization_desc
+  quality: Quality.Legendary
+  appearanceSuffixes: []
+  icon:
+    atlasResourcePath: majorgalvez_snake_eyepatch\ops\preview_icons.inkatlas
+    atlasPartName: slot_01
+  
+  
